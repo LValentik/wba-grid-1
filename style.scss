@@ -1,4 +1,10 @@
-
+body{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  background-image: url("./sunset-1373171_1280.jpg");
+}
 .grid{
     display: grid;
     grid-template-columns: 25vw 25vw 25vw;
