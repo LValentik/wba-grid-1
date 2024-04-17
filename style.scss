@@ -1,9 +1,11 @@
 body{
   font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 500;
   font-style: normal;
   background-image: url("./sunset-1373171_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .grid{
     display: grid;
